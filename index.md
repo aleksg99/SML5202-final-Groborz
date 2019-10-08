@@ -7,6 +7,6 @@
 <ul style="color:palevioletred;"> <li>Read compulsory articles for my seminars</li> <li>Revise for in-class Russian translation tests</li> <li>Write my Russian essay</li> </ul>
 <hr>
 <strong style="color:mediumslateblue;">Here are some of my favourite things</strong>
-<ol style="color:palevioletred;"> <li>Walking my dog Toffee</li> <li>Drinking hot earl grey tea</li> <li>Catching up on my favourite Netflix shows</li> </ol>
+<ol style="color:palevioletred;"> <li>Walking my dog Toffee</li> <li>Drinking wintermelon bubble tea</li> <li>Catching up on my favourite Netflix shows</li> </ol>
 
 <hr>
