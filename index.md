@@ -1,6 +1,5 @@
 <h1>Welcome to my website</h1>
 <p>Hi! My name is Aleks and I am from Poland. I've been living in London for around 11 years. I am currently studying Russian at Queen Mary University of London, as well as attending Japanese classes. </p>
-<br>
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=aleksandra-daria-groborz&page=sml5202-aleks-page"> Visit my QMplus Hub page</a>
 <br>
 <strong>Here is my to do list</strong>
