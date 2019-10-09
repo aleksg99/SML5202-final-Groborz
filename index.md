@@ -10,3 +10,8 @@
 <ol style="color:palevioletred;"> <li>Walking my dog Toffee</li> <li>Drinking wintermelon bubble tea</li> <li>Catching up on my favourite Netflix shows</li> </ol>
 
 <hr>
+
+<p>
+  <a href="page2.html">Page 2</a> <br>
+  <a href="page3.html">Page 3</a>
+</p>
