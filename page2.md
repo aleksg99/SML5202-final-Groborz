@@ -15,7 +15,7 @@
   <dd>A noun or pronoun that indicates to whom or for whom the action of a verb in a sentence is performed</dd>
 </dl>
 <hr>
-<h2>An example of Polish gender forms</h>
+<h2>An example of Polish gender forms</h2>
 <hr>
 <table>
   <tr>
