@@ -40,7 +40,7 @@
   </tr>
 </table>
 <hr>
-<p lang="pl"> Oto jest zdanie, które musiałam napisać w języku obcym
+<p li lang="pl"> Oto jest zdanie, które musiałam napisać w języku obcym
 </p>
 <hr>
 <p>
