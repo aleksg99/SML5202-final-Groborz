@@ -16,6 +16,7 @@
 </dl>
 <hr>
 <h2>An example of Polish gender forms</h>
+<hr>
 <table>
   <tr>
     <th>masculine</th>
@@ -38,6 +39,8 @@
     <th>dziecko</th>
   </tr>
 </table>
+<hr>
+<li lang="pl"> To jest zdanie, które musiałam napisać w języku obcym
 <hr>
 <p>
   <a href="index.html">Home</a> <br>
