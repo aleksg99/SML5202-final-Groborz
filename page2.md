@@ -13,6 +13,29 @@
   <dd>A noun or pronoun that indicates to whom or for whom the action of a verb in a sentence is performed</dd>
 </dl>
 <hr>
+<table>
+  <tr>
+    <th>masculine</th>
+    <th>feminine</th>
+    <th>neuter</th>
+  </tr>
+  <tr>
+    <th>tapczan</th>
+    <th>truskawka</th>
+    <th>okno</th>
+  </tr>
+  <tr>
+    <th>pies</th>
+    <th>klamka</th>
+    <th>drzewo</th>
+  </tr>
+  <tr>
+    <th>owoc</th>
+    <th>butelka</th>
+    <th>dziecko</th>
+  </tr>
+</table>
+<hr>
 <p>
   <a href="index.html">Home</a> <br>
   <a href="page3.html">Page 3</a>
