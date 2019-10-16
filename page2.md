@@ -1,11 +1,11 @@
-<h1>Page 2</h1>
-<h1>HTML Part 2 Homework due in Wednesday 16<sup>th</sup> October</h1>
+<h1 style="color:mediumvioletred;">Page 2</h1>
+<h1 style="color:mediumvioletred;">HTML Part 2 Homework due in Wednesday 16<sup>th</sup> October</h1>
 <br>
-<h2>My favourite dog breed</h2>
+<h2 style="color:mediumvioletred;">My favourite dog breed</h2>
 <img src="https://i.pinimg.com/originals/62/17/ca/6217ca093721676961303611047e0670.jpg" alt="Cute Yorkshire terrier puppy">
 <br>
 <hr>
-<h2>A few definitions</h2> 
+<h2 style="color:mediumvioletred;">A few definitions</h2> 
 <dl>
   <dt>Article</dt>
   <dd>A type of determiner that precedes a noun: a, an, or the</dd>
@@ -15,7 +15,7 @@
   <dd>A noun or pronoun that indicates to whom or for whom the action of a verb in a sentence is performed</dd>
 </dl>
 <hr>
-<h2>An example of Polish gender forms</h2>
+<h2 style="color:mediumvioletred;">An example of Polish gender forms</h2>
 <hr>
 <table>
   <tr>
@@ -40,7 +40,7 @@
   </tr>
 </table>
 <hr>
-<p li lang="pl"> Oto jest zdanie, które musiałam napisać w języku obcym
+<p style="color:mediumvioletred;" li lang="pl"> Oto jest zdanie, które musiałam napisać w języku obcym
 </p>
 <hr>
 <p>
