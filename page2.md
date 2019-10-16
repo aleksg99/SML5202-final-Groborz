@@ -6,7 +6,7 @@
 <br>
 <hr>
 <h2 style="color:mediumvioletred;">A few definitions</h2> 
-<dl>
+<dl style="color:rebeccapurple;">
   <dt>Article</dt>
   <dd>A type of determiner that precedes a noun: a, an, or the</dd>
   <dt>Gerund</dt>
@@ -17,7 +17,7 @@
 <hr>
 <h2 style="color:mediumvioletred;">An example of Polish gender forms</h2>
 <hr>
-<table>
+<table style="color:rebeccapurple;">
   <tr>
     <th>masculine</th>
     <th>feminine</th>
@@ -40,7 +40,7 @@
   </tr>
 </table>
 <hr>
-<p style="color:mediumvioletred;" li lang="pl"> Oto jest zdanie, które musiałam napisać w języku obcym
+<p style="color:rebeccapurple;"  li lang="pl"> Oto jest zdanie, które musiałam napisać w języku obcym
 </p>
 <hr>
 <p>
