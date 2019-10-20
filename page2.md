@@ -1,7 +1,6 @@
 <h1 style="color:mediumvioletred;">Page 2</h1>
 <h1 style="color:mediumvioletred;">HTML Part 2 Homework due in Wednesday 16<sup>th</sup> October</h1>
 <br>
-<h1 style="color:mediumvioletred;">Page 3</h1>
 <style>
 div {
   border: 3px solid #4B0082;
@@ -54,7 +53,7 @@ div {
   </tr>
 </table>
 <hr>
-<p style="color:rebeccapurple;"  li lang="pl"> Oto jest zdanie, które musiałam napisać w języku obcym
+<p style="color:rebeccapurple;"  li lang="pl"> Oto zdanie, które musiałam napisać w języku obcym
 </p>
 <hr>
 <p>
