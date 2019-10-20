@@ -1,15 +1,14 @@
 <h1 style="color:mediumvioletred;">Page 2</h1>
 <h1 style="color:mediumvioletred;">HTML Part 2 Homework due in Wednesday 16<sup>th</sup> October</h1>
 <br>
-
-<h2 style="color:mediumvioletred;">A rainbow</h2>
+<h1 style="color:mediumvioletred;">Page 3</h1>
 <style>
 div {
   border: 3px solid #4B0082;
   padding: 20px;
 }
 </style>
-<h1 style="color:mediumvioletred;">Page 3</h1>
+<h2 style="color:mediumvioletred;">A rainbow</h2>
 <p style="color:rebeccapurple;">
 <div class="clearfix">
 <a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" title="View Image Source">
