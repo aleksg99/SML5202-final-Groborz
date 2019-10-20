@@ -1,8 +1,23 @@
 <h1 style="color:mediumvioletred;">Page 2</h1>
 <h1 style="color:mediumvioletred;">HTML Part 2 Homework due in Wednesday 16<sup>th</sup> October</h1>
 <br>
-<h2 style="color:mediumvioletred;">My favourite dog breed</h2>
-<img src="https://i.pinimg.com/originals/62/17/ca/6217ca093721676961303611047e0670.jpg" alt="Cute Yorkshire terrier puppy">
+
+<h2 style="color:mediumvioletred;">A rainbow</h2>
+<style>
+div {
+  border: 3px solid #4B0082;
+  padding: 20px;
+}
+</style>
+<h1 style="color:mediumvioletred;">Page 3</h1>
+<p style="color:rebeccapurple;">
+<div class="clearfix">
+<a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" title="View Image Source">
+<img style="width:50%; border:1px solid mediumvioletred; margin-left:25%; float:left; margin: 0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" alt="A double rainbow">
+  </a>
+  A <span style="color:#9B0954;">rainbow</span> is a meteorological phenomenon that is caused by reflection, refraction and dispersion of light in water droplets resulting in a spectrum of light appearing in the sky. It takes the form of a multicoloured circular arc. Rainbows caused by sunlight always appear in the section of sky directly opposite the sun. Source : <a href="https://en.wikipedia.org/wiki/Rainbow" target="_blank">Wikipedia</a>
+</div>
+</p>
 <br>
 <hr>
 <h2 style="color:mediumvioletred;">A few definitions</h2> 
