@@ -1,6 +1,6 @@
 <style>
 div {
-  border: 3px solid #4CAF50;
+  border: 3px style="color:indigo;" ;
   padding: 20px;
 }
 </style>
