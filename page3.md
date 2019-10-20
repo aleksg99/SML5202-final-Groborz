@@ -1,7 +1,7 @@
 <style>
 div {
-  border: 3px solid #4CAF50;
-  padding: 5px;
+  border: 5px solid #4CAF50;
+  padding: 7px;
 }
 </style>
 <h1 style="color:mediumvioletred;">Page 3</h1>
