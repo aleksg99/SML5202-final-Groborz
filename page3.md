@@ -1,8 +1,6 @@
 
 <h1 style="color:mediumvioletred;">Page 3</h1>
 
-<body>
-
 <h2>Here is a random name caller</h2>
 <button class="button" onclick="makeSentence()">Generate a sentence</button>
 
@@ -33,9 +31,6 @@ document.getElementById("demo").innerHTML = text;
 }
 
 </script>
-
-
-</body>
 
 
 <p>
