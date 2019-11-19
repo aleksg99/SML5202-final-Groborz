@@ -1,10 +1,44 @@
-{
-"idioms": 
-[
-{"idiom": "Once in a blue moon.", "meaning": "Very rarely.", "example": "Once in a blue moon you might see a solar eclipse."}, 
-{"idiom": "Tickled pink.", "meaning": "To be extremely pleased.", "example": "Your grandma was tickled pink that you called on her birthday!"},
-{"idiom": "Caught red-handed.", "meaning": "To catch someone in the act of doing something.", "example": "He was caught red-handed while stealing those biscuits."},
-{"idiom": "A white lie.", "meaning": "A small lie that is told to be polite or avoid hurting someone’s feelings.", "example": "I didn’t like her dress, but I told a white lie because I didn’t want to offend her."},
-{"idiom": "Out of the blue.", "meaning": "Unexpectedly.", "example": "My sister phoned me out of the blue last week. She hadn't phoned for ages."}
-]
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1> Random Idiom Using JSON </h1>
+
+<button type="button" class="new-quote button">Show Idiom</button>
+
+<dl id="quote"></dl>
+
+<script>
+const endpoint = 'https://https://aleksg99.github.io/SML5202-Aleks/datasets/idioms.json';
+
+function getQuote() {
+fetch(endpoint)
+.then(function (response) {
+return response.json();
+})
+
+.then(function(data){
+let id = Math.floor(Math.random() * 5);
+let idiom = (data.idioms[id].idiom);
+let meaning = (data.idioms[id].meaning);
+let example =(data.idioms[id].example);
+
+
+document.querySelector("#quote").innerHTML = "<dt>" + idiom + "<dt>" + "<dd><strong>Example:<strong> " + example + "</dd><dd><strong>Meaning:</strong> " + meaning + "</dd> " ;
+
+//console.log(data.idioms[id].idiom)
+})
+
+.catch(function () {
+console.log("Error occurred");
+});
 }
+
+const newQuoteButton = document.querySelector('.new-quote');
+newQuoteButton.addEventListener('click', getQuote);
+
+</script>
+</body>
+</html>
