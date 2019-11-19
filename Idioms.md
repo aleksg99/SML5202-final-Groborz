@@ -11,7 +11,7 @@
 <dl id="quote"></dl>
 
 <script>
-const endpoint = 'https://https://aleksg99.github.io/SML5202-Aleks/datasets/idioms.json';
+const endpoint = 'https://aleksg99.github.io/SML5202-Aleks/datasets/idioms.json';
 
 function getQuote() {
 fetch(endpoint)
