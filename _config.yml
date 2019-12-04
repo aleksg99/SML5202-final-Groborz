@@ -4,5 +4,5 @@ description: This is my page for SML5202
 github:
   keyphrases: keyphrases.html
   aboutPoland: aboutPoland.html
-  home: home.html
+  index: index.html
   exercises: exercises.html
