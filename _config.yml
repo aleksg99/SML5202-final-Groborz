@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Aleks' page
 description: This is my page for SML5202
 github:
-  page2: page2.html
+  keyphrases: keyphrases.html
   page3: page3.html
   idioms: idioms.html
   exercises: exercises.html
