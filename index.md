@@ -1,7 +1,7 @@
 <h1 style="color:darkred;">Welcome to Polish for tourists</h1>
 <p>On this website, you can learn all necessary words and key phrases to survive in Poland on a trip or family holiday.<p>
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" title="View Image Source">
+<a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" title="View Image Source"> </a>
 
 
 
