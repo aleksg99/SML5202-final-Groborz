@@ -1,9 +1,10 @@
 <h1 style="color:darkred;">Welcome to Polish for tourists</h1>
 <p>On this website, you can learn all necessary words and key phrases to survive in Poland on a trip or family holiday.<p>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_Poland_%28with_coat_of_arms%29.svg/1600px-Flag_of_Poland_%28with_coat_of_arms%29.svg.png" alt=“Polish flag” >
 
 
-<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiuz4C8iuvmAhUCAGMBHaznDscQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fflag-poliand-polish-82896%2F&psig=AOvVaw310luIJabnmc8X1zmq3e3M&ust=1578265115012053" alt=“Polish flag” >
+
   
   <br>
   <o> <strong> Key phrases </strong> </o> 
