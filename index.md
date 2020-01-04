@@ -1,5 +1,20 @@
 <h1 style="color:darkred;">Welcome to Polish for tourists</h1>
 <p>On this website, you can learn all necessary words and key phrases to survive in Poland on a trip or family holiday.<p>
+<style>
+ div {
+border: 3px solid #4B0082;
+padding: 20px;
+}
+</style>
+<h2 style=“color:darkred;”>Polish flag</h2>
+<p style=“color:darkred;">
+<div class="clearfix">
+<a href="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwixzPHciOvmAhXCA2MBHbSuCggQjhx6BAgBEAI&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFlag_of_Poland.jpg&psig=AOvVaw310luIJabnmc8X1zmq3e3M&ust=1578265115012053" title="View Image Source">
+<img style="width:50%; border:1px solid mediumvioletred; margin-left:25%; float:left; margin: 0 10px 10px 0;" src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwixzPHciOvmAhXCA2MBHbSuCggQjhx6BAgBEAI&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFlag_of_Poland.jpg&psig=AOvVaw310luIJabnmc8X1zmq3e3M&ust=1578265115012053" alt=“Polish flag">
+</a>
+</div> 
+  
+  <br>
   <o> <strong> Key phrases </strong> </o> 
   <br>
   On this page you can expect to learn vocabulary to do with:
