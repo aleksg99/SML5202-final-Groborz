@@ -1,12 +1,7 @@
 <h1 style="color:darkred;">Welcome to Polish for tourists</h1>
 <p>On this website, you can learn all necessary words and key phrases to survive in Poland on a trip or family holiday.<p>
 
-<style>
-div {
-  border: 3px solid #4B0082;
-  padding: 20px;
-}
-</style>
+
 <p style="color:darkred">
 <div class="clearfix">
 <a href="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/800px-Flag_of_Poland.svg.png" title="View Image Source">
