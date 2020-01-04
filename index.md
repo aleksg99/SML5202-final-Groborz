@@ -9,7 +9,7 @@ div {
 <p style="color:darkred">
 <div class="clearfix">
 <a href="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/800px-Flag_of_Poland.svg.png" title="View Image Source">
-<img style="width:50%; border:1px solid mediumvioletred; margin-left:25%; float:left; margin: 0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" alt="A double rainbow">
+<img style="width:50%; border:1px solid mediumvioletred; margin-left:25%; float:left; margin: 0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/800px-Flag_of_Poland.svg.png" alt="A double rainbow">
   </a>
 </div>
 <br>
