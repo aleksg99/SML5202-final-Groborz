@@ -6,7 +6,6 @@ div {
   padding: 20px;
 }
 </style>
-<h2 style="color:mediumvioletred;">A rainbow</h2>
 <p style="color:rebeccapurple;">
 <div class="clearfix">
 <a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" title="View Image Source">
