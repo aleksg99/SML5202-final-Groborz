@@ -100,86 +100,88 @@
 
 <p style="color:darkred;">Numbers</p>
 <br>
- <table style>
-  <tr>
+<table>
+   <tr>
     <th>English</th>
     <th>Polish</th>
   </tr>
   <tr>
-    <th>One</th>
-    <th>Jeden</th>
+    <td>One</td>
+    <td>Jeden</td>
   </tr>
   <tr>
-    <th>Two</th>
-    <th>Dwa</th>
+    <td>Two</td>
+    <td>Dwa</td>
   </tr>
   <tr>
-    <th>Three</th>
-    <th>Trzy</th>
+    <td>Three</td>
+    <td>Trzy</td>
   </tr>
 <tr>
-    <th>Four</th>
-    <th>Cztery</th>
+    <td>Four</td>
+    <td>Cztery</td>
   </tr>
  <tr>
-    <th>Five</th>
-    <th>Pięć</th>
+    <td>Five</td>
+    <td>Pięć</td>
   </tr>
  <tr>
-    <th>Six</th>
-    <th>Sześć</th>
+    <td>Six</td>
+    <td>Sześć</td>
   </tr>
   <tr>
-    <th>Seven</th>
-    <th>Siedem</th>
+    <td>Seven</td>
+    <td>Siedem</td>
   </tr>
   <tr>
-    <th>Eight</th>
-    <th>Osiem</th>
+    <td>Eight</td>
+    <td>Osiem</td>
   </tr>
 <tr>
-    <th>Nine</th>
-    <th>Dziewięć</th>
+    <td>Nine</td>
+    <td>Dziewięć</td>
   </tr>
  <tr>
-    <th>Ten</th>
-    <th>Dziesięć</th>
+    <td>Ten</td>
+    <td>Dziesięć</td>
    <tr>
-    <th>Eleven</th>
-    <th>Jedenaście</th>
+    <td>Eleven</td>
+    <td>Jedenaście</td>
   </tr>
   <tr>
-    <th>Twelve</th>
-    <th>Dwanaście</th>
+    <td>Twelve</td>
+    <td>Dwanaście</td>
   </tr>
   <tr>
-    <th>Thirteen</th>
-    <th>Trzynaście</th>
+    <td>Thirteen</td>
+    <td>Trzynaście</td>
   </tr>
 <tr>
-    <th>Fourteen</th>
-    <th>Czternaście</th>
+    <td>Fourteen</td>
+    <td>Czternaście</td>
   </tr>
  <tr>
-    <th>Fifteen</th>
-    <th>Piętnaście</th>
+    <td>Fifteen</td>
+    <td>Piętnaście</td>
   </tr>
  <tr>
-    <th>Sixteen</th>
-    <th>Szesnaście</th>
+    <td>Sixteen</td>
+    <td>Szesnaście</td>
   </tr>
   <tr>
-    <th>Seventeen</th>
-    <th>Siedemnaście</th>
+    <td>Seventeen</td>
+    <td>Siedemnaście</td>
   </tr>
   <tr>
-    <th>Eighteen</th>
-    <th>Osiemnaście</th>
+    <td>Eighteen</td>
+    <td>Osiemnaście</td>
   </tr>
 <tr>
-    <th>Nineteen</th>
-    <th>Dziewiętnaście</th>
+    <td>Nineteen</td>
+    <td>Dziewiętnaście</td>
   </tr>
+</table>
+ 
 </table>
 
 <br>
