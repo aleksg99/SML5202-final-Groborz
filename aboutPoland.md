@@ -1,4 +1,4 @@
-<h1 style="darkred";>On this page you will be able to learn about the history of Poland</h1>
+<h1>On this page you will be able to learn about the history of Poland</h1>
 
 <body>
   <p>Watch this video, then try to answer the quiz!</p>
