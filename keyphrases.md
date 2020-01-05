@@ -180,4 +180,36 @@
     <th>Dziewiętnaście</th>
   </tr>
 </table>
+<br>
+<iframe src="https://h5p.org/h5p/embed/689957" width="1090" height="743" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<br>
+<hr>
+<p style="color:darkred;">Food</p>
+<br>
+<table style>
+  <tr>
+    <th>English</th>
+    <th>Polish</th>
+  </tr>
+  <tr>
+    <th>Food</th>
+    <th>Jedzenie</th>
+  </tr>
+  <tr>
+    <th>Meat</th>
+    <th>Mięso</th>
+  </tr>
+  <tr>
+    <th>Fruit</th>
+    <th>Owoce</th>
+  </tr>
+<tr>
+    <th>Vegetables</th>
+    <th>Warzywa</th>
+  </tr>
+ <tr>
+    <th>Drink</th>
+    <th>Napój</th>
+  </tr>
+</table>
 
