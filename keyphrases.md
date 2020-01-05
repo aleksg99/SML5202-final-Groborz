@@ -61,4 +61,36 @@
     <th>Jak to się nazywa? </th>
   </tr>
 </table>
+<br>
+<iframe src="https://h5p.org/h5p/embed/689953" width="1090" height="307" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<br>
+<hr>
+<p style="color:darkred;">Directions</p>
+<br>
+ <table style>
+  <tr>
+    <th>English</th>
+    <th>Polish</th>
+  </tr>
+  <tr>
+    <th>Right</th>
+    <th>Prawo</th>
+  </tr>
+  <tr>
+    <th>Left</th>
+    <th>Lewo</th>
+  </tr>
+  <tr>
+    <th>Straight</th>
+    <th>Prosto</th>
+  </tr>
+<tr>
+    <th>Street</th>
+    <th>Ulica</th>
+  </tr>
+ <tr>
+    <th>Bridge</th>
+    <th>Most</th>
+  </tr>
+</table>
 
