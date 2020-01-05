@@ -1,8 +1,5 @@
-<h1> <strong> On this page you will be able to learn basic Polish phrases <strong> </h1>
-         
-         
-         
-         
+<h1> <strong> On this page you will be able to learn basic Polish phrases <strong> 
+ <body>        
 <p style="color:darkred;">Greetings</p>
 <hr>
 <table style="color:darkred;">
@@ -31,4 +28,9 @@
     <th>Pa</th>
   </tr>
 </table>
+          <br>
 <iframe src="https://h5p.org/h5p/embed/689951" width="1090" height="806" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+          
+<br>
+<hr>
+
