@@ -55,3 +55,6 @@ On this page you can expect to:
 <li>find links to other websites where Polish can be practised</li> <li>find links to useful books for learning Polish</li> <li>find recommendations regarding travel guides through Poland</li>
 <br>
 <a href="furtherlinks.html">Further links</a>
+
+<hr>
+Student ID: 180172818
