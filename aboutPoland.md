@@ -17,8 +17,6 @@ Interesting facts about Poland:
  <br>
  <a href="keyphrases.html">Key phrases</a>
  <br>
- <a href="experiences.html">Experiences</a>
- <br>
  <a href="advancedpolish.html">Advanced Polish</a>
  <br>
  <a href="furtherlinks.html">Further Links</a>
