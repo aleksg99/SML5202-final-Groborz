@@ -33,5 +33,32 @@
           
 <br>
 <hr>
-Questions
+<p style="color:darkred;">Questions</p>
+<br>
+ <table style>
+  <tr>
+    <th>English</th>
+    <th>Polish</th>
+  </tr>
+  <tr>
+    <th>Where can I find...?</th>
+    <th>Gdzie mogę znaleźć...?</th>
+  </tr>
+  <tr>
+    <th>Where is...?</th>
+    <th>Gdzie jest...?</th>
+  </tr>
+  <tr>
+    <th>How much does this cost?></th>
+    <th>Ile to kosztuje?</th>
+  </tr>
+<tr>
+    <th>What is this?</th>
+    <th>Co to jest?</th>
+  </tr>
+ <tr>
+    <th>What is this called?</th>
+    <th>Jak to się nazywa? </th>
+  </tr>
+</table>
 
