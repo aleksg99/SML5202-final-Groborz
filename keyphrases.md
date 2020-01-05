@@ -1,8 +1,7 @@
-<h1> <strong> On this page you will be able to learn basic Polish phrases <strong> 
+<h1>On this page you will be able to learn basic Polish phrases</h1>
  <body>        
 <p style="color:darkred;">Greetings</p>
-<hr>
-<table style="color:darkred;">
+<br>
   <tr>
     <th>English</th>
     <th>Polish</th>
