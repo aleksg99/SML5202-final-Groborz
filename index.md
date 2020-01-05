@@ -30,15 +30,6 @@
   <li>learn about the brief history of Poland</li> <li>discover interesting facts about Poland</li>
   <br>
  <a href="aboutPoland.html">About Poland</a>
-  
-
-<hr>
-<o> <strong> Experiences </strong> </o>
-<br>
-On this page you can expect to:
-<li>find a bucket list of places to visit</li> <li>find a bucket list of foods to try</li>
-<br>
-<a href="experiences.html">Experiences</a>
 
 <hr>
 <o> <strong> Advanced Polish </strong> </o>
