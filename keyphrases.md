@@ -2,6 +2,7 @@
  <body>        
 <p style="color:darkred;">Greetings</p>
 <br>
+ <table style>
   <tr>
     <th>English</th>
     <th>Polish</th>
@@ -32,4 +33,5 @@
           
 <br>
 <hr>
+Questions
 
