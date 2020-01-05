@@ -68,26 +68,26 @@
 
 <p>The thing that makes Polish different to other languages, and what perhaps makes it a bit more challenging to learn the grammar are the cases, as there are seven of them. Fortunately, Polish tenses are much easier to learn, as there are only 3!On this part of the page, you will learn basic information about what these are.<p>
   <br>
-  <h2>Cases</h2>
+  <h2 style="color:darkred;">Cases</h2>
     <h4>Nominative</h4>
       <p>This case answers the questions 'who' and 'what' - it is the easiest case to learn, as the singular words add an -a, -i, or -o, whereas plural add an -y, -i, or -e
   <br>
-      <h4>Genetive</h4>
+      <h4 style="color:darkred;">Genetive</h4>
       <p>This case answers the question 'whose', and it is arguably one of the hardest cases to master with several distintions having to be made on top of the gender from, like whether it is animate or inanimate, which changes the ending of the word in according to these rules.</p>
   <br>
-      <h4>Dative</h4>
+      <h4 style="color:darkred;">Dative</h4>
       <p>This case answers the question 'who' and 'what'. Compared to other cases, it is easy to learn as most will have the endings -owi, -ie or -u. However, this case is used rarely, compared to the others.</p>
    <br>
-      <h4>Accusative</h4>
+      <h4 style="color:darkred;">Accusative</h4>
       <p> This case answers the question 'who' and 'what', and the usage of this case is similar to English as well as German</p>
       <br>
-      <h4>Instrumental</h4>
+      <h4 style="color:darkred;">Instrumental</h4>
       <p>This case answers the question 'with whom' and 'with what', there is no equivalent of this case in the English language</p>
       <br>
-      <h4>Locative</h4>
+      <h4 style="color:darkred;">Locative</h4>
       <p>This case is often called the prepositional case. It answers the questions 'about who' and 'about what'. The easiest way to spot this case is to spot the word 'o' before another word</p>
       <br>
-      <h4>Vocative</h4>
+      <h4 style="color:darkred;">Vocative</h4>
       <p>This is an interesting case as this case is about how you adress people. It is considiered weird, even bad manners to call someone by their name. Let's suppose there is a man called Leszek, in order to call his name, you'd have to say 'Leszku'</p>
       <br>
 <p>I hope that this was an easy bried introduction to the Polish cases, and grammar in general. If you want to learn more about his click <a href="https://mowicpopolsku.com/polish-grammar/">here</a>
