@@ -1,7 +1,5 @@
 <h1 style="color:darkred;">Welcome to Polish for tourists</h1>
-<p>Dear <span style="color:darkred;"><a href="https://en.bab.la/dictionary/polish-english/internauta">internauci</a></span>, welcome to my website! I hope you enjoy your stay here, and are able to learn many new things. On this website, you can learn all necessary words and key phrases to survive in Poland on a trip or family holiday.<p>
-https://en.bab.la/dictionary/polish-english/internauta
-  <a href="https://en.bab.la/dictionary/polish-english/internauta/html-link.htm" style="color:darkred">Internauci</a>
+<p>Dear <a href="https://en.bab.la/dictionary/polish-english/internauta/html-link.htm" style="color:darkred">Internauci</a>, welcome to my website! I hope you enjoy your stay here, and are able to learn many new things. On this website, you can learn all necessary words and key phrases to survive in Poland on a trip or family holiday.<p>
 
 <p style="color:darkred">
 <div class="clearfix">
