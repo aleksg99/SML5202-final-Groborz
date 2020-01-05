@@ -157,7 +157,7 @@
   </tr>
 <tr>
     <th>Fourteen</th>
-    <th>Czterynaście</th>
+    <th>Czternaście</th>
   </tr>
  <tr>
     <th>Fifteen</th>
@@ -177,7 +177,7 @@
   </tr>
 <tr>
     <th>Nineteen</th>
-    <th>Dziewietnaście</th>
+    <th>Dziewiętnaście</th>
   </tr>
 </table>
 
