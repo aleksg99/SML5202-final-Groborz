@@ -5,62 +5,64 @@
 
 <p style="color:darkred;">Directions</p>
 <br>
- <table style>
+ <table>
   <tr>
     <th>English</th>
     <th>Polish</th>
   </tr>
   <tr>
-    <th>Which way is..?</th>
-    <th>W która stronę jest...?</th>
+  <td>Which way is..?</td>
+    <td>W która stronę jest...?</td>
   </tr>
   <tr>
-    <th>Go right!</th>
-    <th>Idź w prawo!</th>
+    <td>Go right!</td>
+    <td>Idź w prawo!</td>
   </tr>
   <tr>
-    <th>Go left!</th>
-    <th>Idź w lewo!</th>
-  </tr>
-<tr>
-    <th>Go straight!</th>
-    <th>Idź prosto</th>
-  </tr>
- <tr>
-    <th>Turn right/left</th>
-    <th>Skręć w prawo/lewo</th>
-  </tr>
- <tr>
-    <th>Cross the bridge</th>
-    <th>Przejdź przez most</th>
+    <td>Go left!</td>
+    <td>Idź w lewo!</td>
   </tr>
   <tr>
-    <th>Take the bus/tube/tram</th>
-    <th>Wsiadź w autobus/metro/tramwaj</th>
+    <td>Go straight!</td>
+    <td>Idź prosto</td>
   </tr>
   <tr>
-    <th>Near</th>
-    <th>Blisko</th>
-  </tr>
-<tr>
-    <th>Far</th>
-    <th>Daleko</th>
-  </tr>
- <tr>
-    <th>North</th>
-    <th>Północ</th>
-   <tr>
-    <th>South</th>
-    <th>Południe</th>
+    <td>Turn right/left</td>
+    <td>Skręć w prawo/lewo</td>
   </tr>
   <tr>
-    <th>East</th>
-    <th>Wschód</th>
+    <td>Cross the bridge</td>
+    <td>Przejdź przez most</td>
   </tr>
   <tr>
-    <th>West</th>
-    <th>Zachód</th>
+  <td>Take the bus/tube/tram</td>
+    <td>Wsiadź w autobus/metro/tramwaj</td>
   </tr>
+  <tr>
+  <td>Near</td>
+    <td>Blisko</td>
+  </tr>
+  <tr>
+  <td>Far</td>
+    <td>Daleko</td>
+  </tr>
+  <tr>
+  <td>North</td>
+    <td>Północ</td>
+  </tr>
+  <tr>
+  <td>South</td>
+    <td>Południe</td>
+  </tr>
+  <tr>
+   <td>East</td>
+    <td>Wschód</td>
+  </tr>
+  <tr>
+  <td>West</td>
+    <td>Zachód</td>
+  </tr>
+</table>
 <br>
 <hr>
 
