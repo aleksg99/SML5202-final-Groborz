@@ -1,4 +1,4 @@
-<h1>On this page you will be able to learn basic Polish phrases</h1>
+<h1 style="color:darkred;">On this page you will be able to learn basic Polish phrases</h1>
  <body>        
 <p style="color:darkred;">Greetings</p>
 <br>
