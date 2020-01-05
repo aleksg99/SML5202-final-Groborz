@@ -69,7 +69,7 @@
 <p>The thing that makes Polish different to other languages, and what perhaps makes it a bit more challenging to learn the grammar are the cases, as there are seven of them. Fortunately, Polish tenses are much easier to learn, as there are only 3!On this part of the page, you will learn basic information about what these are.<p>
   <br>
   <h2 style="color:darkred;">Cases</h2>
-    <h4>Nominative</h4>
+    <h4 style="color:darkred;">Nominative</h4>
       <p>This case answers the questions 'who' and 'what' - it is the easiest case to learn, as the singular words add an -a, -i, or -o, whereas plural add an -y, -i, or -e
   <br>
       <h4 style="color:darkred;">Genetive</h4>
