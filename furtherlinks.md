@@ -25,7 +25,8 @@
   <br>
   <a href="https://www.poland.travel/en">Visit the Polish government's official website</a>
   <br>
-  <p> Dear reader! Thank you for checking out my website Polish for Tourists! I hope you've found all the materials provided here usefull, and an amazing holiday in Poland. If you have any further questions regarding the language lessons, or any topic that I might have missed out, do not hesitate to contact me!
+  <hr>
+  <p> Dear reader! Thank you for checking out my website Polish for Tourists! I hope you've found all the materials provided here usefull, and that you were able to have fun while learning a new language!</p>
   <br>
                                                                                                                                               
                                                                             
