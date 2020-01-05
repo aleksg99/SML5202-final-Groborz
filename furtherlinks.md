@@ -37,8 +37,6 @@
  <br>
  <a href="aboutPoland.html">About Poland</a>
  <br>
- <a href="experiences.html">Experiences</a>
- <br>
  <a href="advancedpolish.html">Advanced Polish</a>
  <br>
  <hr>
