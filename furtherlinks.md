@@ -27,8 +27,10 @@
   <br>
   <p> Dear reader! Thank you for checking out my website Polish for Tourists! I hope you've found all the materials provided here usefull, and an amazing holiday in Poland. If you have any further questions regarding the language lessons, or any topic that I might have missed out, do not hesitate to contact me!
   <br>
-  <a href = mailto:sashenka7aleks@gmail.com?subject = Questions = Message"> Send questions </a>
-                                                                              </p>                                                                          
+ <a href = “mailto:anastasijaale@inbox.lv?subject = Feedback&body = Message”>
+Contact me
+</a>
+                                                                                                                                                    
                                                                             
   <hr>
    <a href="index.html">Home</a>
