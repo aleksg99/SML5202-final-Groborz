@@ -1,5 +1,5 @@
 <h1 style="color:darkred;">Welcome to Polish for tourists</h1>
-<p>On this website, you can learn all necessary words and key phrases to survive in Poland on a trip or family holiday.<p>
+<p>Dear <span style="color:darkred;">internauci</span>, welcome to my website! I hope you enjoy your stay here, and are able to learn many new things. On this website, you can learn all necessary words and key phrases to survive in Poland on a trip or family holiday.<p>
 
 
 <p style="color:darkred">
