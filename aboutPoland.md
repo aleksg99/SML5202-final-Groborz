@@ -2,7 +2,7 @@
 <body>
   <p>Watch this video, then try to answer the quiz!</p>
   
-  <iframe width="1440" height="651" src="https://www.youtube.com/embed/7SpddNW7a3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="700" height="451" src="https://www.youtube.com/embed/7SpddNW7a3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
