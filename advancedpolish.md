@@ -61,6 +61,5 @@
     <th>West</th>
     <th>Zachód</th>
   </tr>
-</table>
 <br>
 <hr>
