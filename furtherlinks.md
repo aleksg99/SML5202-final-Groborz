@@ -11,7 +11,7 @@
   <h2 style="color:darkred">History</h2>
   
   <p>Do you <span style="color:darkred;">love</span> history? Why not learn more about Poland - click on the links below!</p>
- <a href=" http://www.intopoland.com/poland-info/history-of-poland.html">Visit Into Poland</a>
+ <a href="http://www.intopoland.com/poland-info/history-of-poland.html">Visit Into Poland</a>
   <br>
   <a href="https://culture.pl/en/article/learn-the-history-of-poland-in-10-minutes">Visit Culture.pl</a>
   <br>
